@@ -63,6 +63,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "Classes/**/*.{h,m,swift}"
+  s.preserve_paths = 'LoginModule/Classes/**/*'
 
   # spec.public_header_files = "Classes/**/*.h"
 
