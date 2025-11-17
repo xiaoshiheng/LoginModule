@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LoginModule"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "the login module"
   spec.description  = <<-DESC
                     it is the combineproject's login module
